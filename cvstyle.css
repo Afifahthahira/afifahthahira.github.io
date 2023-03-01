@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(235, 212, 232);
+    margin: 50px;
+}
+
+h4{
+    color: black;
+}
+
+a{
+    color: black;
+    margin: :right 5px;
+}
+
+.active{
+    color: beige;
+}
+b{
+    color: rgb(180, 46, 144);
+    background-color: pink;
+}
+h1{
+    color: rgb(180, 46, 144);
+    background-color: pink;
+}

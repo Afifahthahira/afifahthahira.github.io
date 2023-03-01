@@ -1,0 +1,17 @@
+body{
+    background-color: #fbe0e0;
+    margin: 50px;
+}
+
+h1{
+    color: rgb(215, 96, 116);
+}
+
+a{
+    color: black;
+    margin-right: 5px;
+}
+
+.active{
+    color: orange;
+}
